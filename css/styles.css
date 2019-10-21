@@ -8,6 +8,7 @@ body{
   color: black;
   float: right;
   flex: 20px;
+  text-transform: uppercase;
   
 }
 
@@ -15,8 +16,13 @@ body{
   align-content: flex-end;
 }
 
+.logo{
+  height: 50px;
+  width: 50px;
+}
 h1{
   text-transform: uppercase;
+
 }
 img {
   height: 250px;
