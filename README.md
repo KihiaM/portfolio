@@ -1,6 +1,6 @@
-#Project : My Portfolio
+# Project : My Portfolio
 
-##Description
+## Description
 This is my portfolio containing my homepage, about section, skills and links to other projects hosted on git-hub.
 
 ## Setup
