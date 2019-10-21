@@ -67,11 +67,12 @@ nav a:hover{
 padding-top: 50px;
 padding-left: 150px;
 float: left;
+display: flex;
+align-items: center;
+justify-content: center;
 }
 
 .projects{
-  padding-top: 5px;
-  text-align: center;
   color: white;
 }
 
@@ -85,4 +86,23 @@ float: left;
 
 .projects p:hover{
   overflow: visible;
+}
+
+#me{
+  padding-top: 200px;
+  padding-left: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.portrait{
+  border-radius: 50%;
+  vertical-align: text-top;
+}
+
+#info{
+  position: relative;
+  padding-left: 20px;
+  color: antiquewhite;
 }
