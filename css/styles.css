@@ -105,4 +105,6 @@ justify-content: center;
   position: relative;
   padding-left: 20px;
   color: antiquewhite;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 1px;
 }
