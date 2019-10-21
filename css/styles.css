@@ -62,3 +62,27 @@ nav a:hover{
   top: 280px;
   left: 380px;
 }
+
+.links{
+padding-top: 50px;
+padding-left: 150px;
+float: left;
+}
+
+.projects{
+  padding-top: 5px;
+  text-align: center;
+  color: white;
+}
+
+.projects p{
+    white-space: nowrap;
+    width: 200px;
+    border: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+
+.projects p:hover{
+  overflow: visible;
+}
